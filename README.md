@@ -11,7 +11,7 @@ This repository contains my solutions to Harvard University's <a href='https://w
 You can find the materials for the course <a href='https://cs50.harvard.edu/x/2021/'>here</a> or look at the assignments specifications linked at right of every section in the table of contents. <br>
 Every exercise in this repository scored 100% on submission.
 ### Shirtificate:
-<img width="250" alt="image" >
+<img width="250" alt="image" src='https://github.com/smkatash/CS50_python_2022/blob/master/Screenshot%202022-09-11%20at%2018.55.21.png' >
 
 ### Table Of Contents
 < _
