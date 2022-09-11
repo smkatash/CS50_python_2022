@@ -9,8 +9,8 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 This repository contains my solutions to Harvard University's <a href='https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V'>🖥️ CS50's Introduction to Programming with Python (CS50P) 2022</a> assignments and document my progress during the course. <br>
 You can find the materials for the course <a href='https://cs50.harvard.edu/x/2021/'>here</a> or look at the assignments specifications linked at right of every section in the table of contents. <br>
 Every exercise in this repository scored 100% on submission.
-### Certificate from CS50x:
-<img width="250" alt="image" src="https://user-images.githubusercontent.com/76934648/188132089-f2e52b6f-8df5-4cb3-8fa4-c28c3f631bf6.png">
+### Shirtificate:
+<img width="250" alt="image" >
 
 # Table Of Contents
 - 📝[Week-0](week00/) ```[Theme: Functions, Variables]```
