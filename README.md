@@ -10,23 +10,16 @@ This repository contains my solutions to Harvard University's <a href='https://w
 You can find the materials for the course <a href='https://cs50.harvard.edu/x/2021/'>here</a> or look at the assignments specifications linked at right of every section in the table of contents. <br>
 Every exercise in this repository scored 100% on submission.
 ### Certificate from CS50x:
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/76934648/188132089-f2e52b6f-8df5-4cb3-8fa4-c28c3f631bf6.png">
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/76934648/188132089-f2e52b6f-8df5-4cb3-8fa4-c28c3f631bf6.png">
 
 # Table Of Contents
-- 📝[Week-1](week1/) ```[Theme: Basics of C, Greedy Algorithm, Cryptography]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
+- 📝[Week-0](week00/) ```[Theme: Functions, Variables]```
+- 📝[Week-1](week01/) ```[Theme: Conditionals]```
+- 📝[Week-2](week02/) ```[Theme: Loops]``` 
+- 📝[Week-3](week03/) ```[Theme: Exceptions]``` 
+- 📝[Week-4](week04/) ```[Theme: Libraries]``` 
+- 📝[Week-5](week05/) ```[Theme: Unit Tests]``` 
+- 📝[Week-6](week06/) ```[Theme: File I/O]```
+- 📝[Week-7](week07/) ```[Theme: Regular Expressions]``` 
+- 📝[Week-8](week08/) ```[Theme: Object-Oriented Programming]```
 
-- 📝[Week-2](week2/) ```[Theme: Arrays, Cryptography, Encryption]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-
-- 📝[Week-3](week3/) ```[Theme: Algorithms, Graph Theory Basics]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-
-- 📝[Week-4](week4/) ```[Theme: Memory organization, Pointers⚠, Image filters, File manipulation & Data Recovery]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
- 
-- 📝[Week-5](week5/) ```[Theme: Data Structures⚠]``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-
-- 📝[Week-6](week6/) ```[Theme: Basics of Python, Forensics, Probability]```<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-
-- 📝[Week-7](week7/) ```[Theme: SQLite, Database querying, Crime Investigation]``` <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a>
-
-- 📝[Week-8](week8/) ```[Theme: HTML, CSS, JavaScript]``` <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="sqlite" width="50" height="20"/> </a>
-
-- 📝[Week-9](week9/) ```[Theme: Flask]``` <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="sqlite" width="50" height="20"/> </a>
