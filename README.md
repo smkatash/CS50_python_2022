@@ -1,4 +1,5 @@
-# CS50’s Introduction to Programming with Python. Exercises inspired by real-world programming problems.
+# CS50’s Introduction to Programming with Python. 
+### Exercises inspired by real-world programming problems.
 
 All exercises performed in CS50 Python, with 100%, in 2022.
  
@@ -12,7 +13,8 @@ Every exercise in this repository scored 100% on submission.
 ### Shirtificate:
 <img width="250" alt="image" >
 
-# Table Of Contents
+### Table Of Contents
+< _
 - 📝[Week-0](week00/) ```[Theme: Functions, Variables]```
 - 📝[Week-1](week01/) ```[Theme: Conditionals]```
 - 📝[Week-2](week02/) ```[Theme: Loops]``` 
@@ -21,5 +23,5 @@ Every exercise in this repository scored 100% on submission.
 - 📝[Week-5](week05/) ```[Theme: Unit Tests]``` 
 - 📝[Week-6](week06/) ```[Theme: File I/O]```
 - 📝[Week-7](week07/) ```[Theme: Regular Expressions]``` 
-- 📝[Week-8](week08/) ```[Theme: Object-Oriented Programming]```
+- 📝[Week-8](week08/) ```[Theme: Object-Oriented Programming]```_
 
